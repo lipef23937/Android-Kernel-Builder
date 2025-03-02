@@ -1,6 +1,6 @@
 [  {
     "kernelSource": {
-      "name": "MoeKernelNoKSU",
+      "name": "whyakari",
       "repo": "https://github.com/whyakari/android_kernel_motorola_bangkk",
       "branch": "5.4.284-noksu",
       "device": "bangkk"
@@ -14,7 +14,7 @@
       },
       {
         "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
-        "branch": "11",
+        "branch": "17",
         "name": "clang"
       }
     ],
